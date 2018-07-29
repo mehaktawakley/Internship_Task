@@ -1,5 +1,3 @@
-File hosted at http://mehaktawakley.pythonanywhere.com
-
 Steps to run offline :-
 1. Install Python 3.6
 2. Install flask (in cmd -> 'pip install flask')
